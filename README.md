@@ -9,5 +9,5 @@ enum Enum1 : long { MyValue = 1, OtherValue = 2 }
 ```csharp
 [Flags]
 enum Enum1Flags : long { MyValue = 1, OtherValue = 2 }
-//Enum: MyValue, OtherValue
+//Enum1Flags: MyValue, OtherValue
 ```
