@@ -1,5 +1,5 @@
 # .NET Enum Flags 
-
+[![Build Status](https://travis-ci.com/rafaelptr/dotnet-enum-flags.svg?branch=master)](https://travis-ci.com/rafaelptr/dotnet-enum-flags)
 ## Sample
 
 ```csharp
