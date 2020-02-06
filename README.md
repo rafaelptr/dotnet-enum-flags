@@ -1,6 +1,7 @@
 # .NET Enum Flags 
 [![Build Status](https://travis-ci.com/rafaelptr/dotnet-enum-flags.svg?branch=master)](https://travis-ci.com/rafaelptr/dotnet-enum-flags)
-## Sample
+  
+Enum flag annotation sample.
 
 ```csharp
 enum Enum1 : long { MyValue = 1, OtherValue = 2 }
